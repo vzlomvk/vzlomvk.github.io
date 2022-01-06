@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://vzlomvk.github.io/sitemap.xml
