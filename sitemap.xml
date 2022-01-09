@@ -6,4 +6,9 @@
 			<xhtml:link rel="alternate" hreflang="ru" href="https://vzlomvk.github.io" />
 			<priority>1</priority>
 		</url>
+		<url>
+			<loc>https://vzlomvk.github.io/blog/kak_vzlomat_vk_2022.html</loc>
+			<xhtml:link rel="alternate" hreflang="ru" href="https://vzlomvk.github.io/blog/kak_vzlomat_vk_2022.html" />
+			<priority>1</priority>
+		</url>
 </urlset>
